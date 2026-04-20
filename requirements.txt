@@ -1,0 +1,10 @@
+split-folders
+opencv-python
+numpy
+tqdm
+torch
+torchvision
+matplotlib
+pandas
+scikit-learn
+Pillow
