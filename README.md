@@ -1,6 +1,9 @@
 
 # AeroPrecision-AI: High-Resolution Crop Health Analysis & Path Detection using Deep Learning
 
+<img width="1406" height="968" alt="inference_example" src="https://github.com/user-attachments/assets/357f6cab-4e51-4733-89ea-8b4d81666dc5" />
+
+
 ## Overview
 This repository provides a fully autonomous pipeline for precision agriculture, leveraging deep learning (EvolvableDroneNet based on Inception V3) to transform raw high-resolution drone imagery into professional crop health and path maps. The workflow covers everything from raw data processing, curation, model training, evaluation, and high-precision inference.
 
